@@ -17,6 +17,8 @@ Our project is aimed to create a visual narrative of the accessibility to health
   </i>
        </p>
        <br>
+       
+       
 ### Why is this important?
 Accessibility to medical services is an important topic to us because it is a service that everyone needs and thus should be widely available. According to the American Medical Association, the United States is experiencing a health crisis as a result of insufficient allocation of low-cost and free primary care services and preventative programs within communities. Health promotion and disease prevention is vital to improve the quality of life of all individuals, especially in low-income areas that experience resource limitations and have less accessibility to hospitals and other care. It is important to allocate Federal and State funds to the communities that are in true need to then increase the quality of life of those who live in these areas. Large numbers of preventable deaths are at stake, it is a human necessity to receive medical care in order to detect and treat diseases in a safe and timely manner.
  <br>
@@ -27,5 +29,7 @@ Accessibility to medical services is an important topic to us because it is a se
   </i>
   </p>
   <br>
+  
+  
 ### What is the spatial scope?
 The spatial scope for our project is the United States, more specifically, Los Angeles County in California. The quantitative and census data we will use includes the location of all the certified clinics and the median household income of each zip code within Los Angeles County. The data we will be using is relatively recent, from 2019 for the median household income and 2021 (modified monthly) for the certified Healthcare facility listing. Our aim is to use data as updated as possible to create a project that reflects the current resource allocation of the healthcare sector in Los Angeles. 

@@ -17,6 +17,13 @@
 
 <b>Data Update:</b>
 
+  * Licensed and Certified Healthcare facility listing in California (first link): </b>
+https://healthdata.gov/dataset/licensed-and-certified-healthcare-facility-listing
+
+<b>
+  * Median Household income statistics in LA county: </b>
+https://censusreporter.org/data/map/?table=B19013&geo_ids=05000US06037,860|05000US06037&primary_geo_id=05000US06037
+
 <br>
 
 <b>Concerns:</b>

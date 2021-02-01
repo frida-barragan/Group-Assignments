@@ -28,6 +28,6 @@ https://censusreporter.org/data/map/?table=B19013&geo_ids=05000US06037,860|05000
 
 <b>Concerns:</b>
 <br>
-*Major concerns:
+* Major concerns:
 <br>
-*Minor concerns:
+* Minor concerns:

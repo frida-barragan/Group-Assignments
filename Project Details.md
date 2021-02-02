@@ -1,4 +1,4 @@
-### Project title (change this)
+### LA County disparities in healthcare accessibility.
 <b>Roles:</b>
 <br>
 * Frida Barragan: I will contribute to the project by creating graphs that focus on the income and clinic accessibility in LA county.
@@ -9,10 +9,10 @@
 
 <b>Status Update:</b>
 <br>
-* Works:
+* Works: We have been communicating effectively and our data sets have worked nicely with our purposes.
 <br>
 
-* Does not work:
+* Does not work: Interactive maps do not work with our data because our data set is too large.
 
 <br>
 

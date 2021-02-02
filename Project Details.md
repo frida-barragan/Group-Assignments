@@ -31,7 +31,7 @@ https://censusreporter.org/data/map/?table=B19013&geo_ids=05000US06037,860|05000
 
 <b>Concerns:</b>
 <br>
-* Major concerns:
+* Major concerns: One of our major concerns is that we don't have the tools to bring some of our images/visualizations to life.
 <br>
 
-* Minor concerns:
+* Minor concerns: General aesthetics of the visualizations we create, making sure they are visually accessible to everyone.

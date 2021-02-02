@@ -4,7 +4,7 @@
 * Frida Barragan: I will contribute to the project by creating graphs that focus on the income and clinic accessibility in LA county.
 <br>
 
-* Keven Michel:
+* Keven Michel: I will contribute to the project by creating 
 <br>
 
 <b>Status Update:</b>

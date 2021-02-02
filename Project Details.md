@@ -24,6 +24,9 @@ https://healthdata.gov/dataset/licensed-and-certified-healthcare-facility-listin
   * Median Household income statistics in LA county: 
 https://censusreporter.org/data/map/?table=B19013&geo_ids=05000US06037,860|05000US06037&primary_geo_id=05000US06037
 
+ * Racial Profile Census Data for Los Angeles county: 
+ https://censusreporter.org/data/table/?table=B02001&geo_ids=05000US06037&primary_geo_id=05000US06037
+
 <br>
 
 <b>Concerns:</b>

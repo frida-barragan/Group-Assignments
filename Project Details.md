@@ -4,7 +4,7 @@
 * Frida Barragan: I will contribute to the project by creating graphs that focus on the income and clinic accessibility in LA county.
 <br>
 
-* Keven Michel: I will contribute to the project by creating 
+* Keven Michel: I will contribute to the project by creating different visualizations using health clinic datasets and Yelp review datasets within LA County.
 <br>
 
 <b>Status Update:</b>
@@ -26,6 +26,9 @@ https://censusreporter.org/data/map/?table=B19013&geo_ids=05000US06037,860|05000
 
  * Racial Profile Census Data for Los Angeles county: 
  https://censusreporter.org/data/table/?table=B02001&geo_ids=05000US06037&primary_geo_id=05000US06037
+ 
+ * Yelp Review Dataset 
+ https://www.yelp.com/dataset/download
 
 <br>
 

@@ -56,13 +56,7 @@ https://docs.google.com/presentation/d/1nc2ray-mSFP4W-RpcIg3Uzy-h15HPS193q26Fb8U
 
 <i>Keven Michel</i>
     
-    https://jupyter.idre.ucla.edu/user/michelkeven15@gmail.com/notebooks/21W-DH140/Keven/Medical%20Centers%20LA.ipynb
-    
-    Medical centers: https://jupyter.idre.ucla.edu/user/michelkeven15@gmail.com/notebooks/21W-DH140/Keven/Medical%20Centers%20LA.ipynb
-    
-    Health programs: https://jupyter.idre.ucla.edu/user/michelkeven15@gmail.com/notebooks/21W-DH140/Keven/Health%20Programs.ipynb
-    
-    Health clinics: https://jupyter.idre.ucla.edu/user/michelkeven15@gmail.com/notebooks/21W-DH140/Keven/Health%20Clinics%20LA.ipynb
+    https://jupyter.idre.ucla.edu/user/michelkeven15@gmail.com/notebooks/21W-DH140/Keven/DH140MidtermKev.ipynb
 
 
 

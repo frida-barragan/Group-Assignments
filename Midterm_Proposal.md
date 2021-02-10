@@ -29,11 +29,14 @@ https://healthdata.gov/dataset/licensed-and-certified-healthcare-facility-listin
 
 <i>Los Angeles County office of Enterprise Geographical Information Systems</i>
 
-https://egis-lacounty.hub.arcgis.com/datasets/public-health-programs
+https://egis-lacounty.hub.arcgis.com/datasets/health-clinics?geometry=176.529%2C22.722%2C-35.815%2C47.492
+https://egis-lacounty.hub.arcgis.com/datasets/hospitals-and-medical-centers?geometry=176.529%2C22.722%2C-35.815%2C47.492
+https://egis-lacounty.hub.arcgis.com/datasets/health-education-and-counseling?geometry=176.529%2C22.722%2C-35.815%2C47.492
 
 <i>Census Reporter median household income by zip code in Los Angeles County</i>
 
 https://censusreporter.org/data/map/?table=B19013&geo_ids=05000US06037,860|05000US06037&primary_geo_id=05000US06037
+
 
 ### Visualizations 
 

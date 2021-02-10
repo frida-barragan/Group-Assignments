@@ -8,10 +8,10 @@
     Los Angeles County Skyline
   </i>
       </p>
-<center>
+<p align= "center">
 <b><h3> How does the number of health establishments and their quality of services offered is affected by the median household income of the zip code they are located in? (LA County)</b></h3>
 Our project is aimed to showcase the accessibility to health services depending on an income-based distribution within Los Angeles County. By utilizing census and quantitative data we will be able to visualize how the distribution of health services is affected by the median household income of the population they are being offered to. Our project will also provide insight as to how the Federal and State funds for health services have historically affected the enrollment of facilities in the Center for Medicaid and Medicare Services. 
-</center>
+
   
 
 

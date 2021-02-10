@@ -23,13 +23,16 @@ The spatial scope for our project is the United States, more specifically, Los A
 For our project, we will be reviewing data sources centered on health care facilities and population income in the region. Provided by the California Department of Public Health (CDPH), the "Licensed and Certified Healthcare Listings" dataset will allow us to view active facilities in the state of California. Using this we can analyze the number of healthcare facilities in different neighborhoods of Los Angeles and the services they offer. Similarly, we have data that focuses on a variety of healthcare programs within the county of Los Angeles, which is provided by the Los Angeles County office of Enterprise Geographical Information Systems. We will also view data provided by the Census Reporter which gives details on the median household income by zip code in Los Angeles County. 
 
 #### Links to data sources:
-Licensed and Certified Healthcare Listings
+<i>Licensed and Certified Healthcare Listings</i>
+
 https://healthdata.gov/dataset/licensed-and-certified-healthcare-facility-listing
 
-Los Angeles County office of Enterprise Geographical Information Systems
+<i>Los Angeles County office of Enterprise Geographical Information Systems</i>
+
 https://egis-lacounty.hub.arcgis.com/datasets/public-health-programs
 
-Census Reporter median household income by zip code in Los Angeles County 
+<i>Census Reporter median household income by zip code in Los Angeles County</i>
+
 https://censusreporter.org/data/map/?table=B19013&geo_ids=05000US06037,860|05000US06037&primary_geo_id=05000US06037
 
 ### Visualizations 
